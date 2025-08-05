@@ -2,7 +2,7 @@
 
 This is a **Personal Portfolio Website** created as part of the CodeAlpha Frontend Development Internship.
 
-The project showcases my skills, resume, and contact information, and is designed with a modern, responsive layout using HTML and CSS.
+The project showcases my skills, resume, and contact information, and is designed with a modern, responsive layout using HTML5 and CSS3.
 
 ---
 
