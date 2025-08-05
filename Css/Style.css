@@ -705,9 +705,12 @@ Textarea {
     font-size: 25px;
     padding: 10px 6px;
     transition:color .3s ease-in-out ;
+    color: var(--background-color);
+   
 }
 .icon-footer a i:hover{
     color: var(--color);
+    
 }
 .alpha{
     border-top: 1px solid var(--color);
